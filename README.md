@@ -19,7 +19,7 @@ Clone the repo and unzip the dataset files
 I have attatched the datasets I have used so unzip the files and run the [Movie_recommendation.ipynb](https://github.com/fireclan17/PixRaRe/blob/main/Movie_recommendation.ipynb)
 
 # *FYI*
-* **I have some plans for this project in the future and i'll be updating the Model and GUI of the Tool.**
+* **The project has scope for more changes and i'll be updating the Model and GUI of the Tool.**
 * **Pull Requests are welcome.** 
 
 
